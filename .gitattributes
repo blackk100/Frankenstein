@@ -266,6 +266,7 @@ Procfile				text
 # Source files
 # ============
 *.lua			text
+*.rmskin	binary
 
 # Luadoc output
 # =============
