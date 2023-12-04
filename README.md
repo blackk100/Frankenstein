@@ -6,7 +6,7 @@ A frankenstein of Rainmeter skins from multiple sources, slightly modified by me
 
 ![Frankenstein Screenshot](./Screenshot.png "Frankenstein Screenshot")
 
-The background isn't included with the .rmskin package in releases, but here's a link to the original artwork: [Space Station by Morgan Prost]((https://www.artstation.com/artwork/YaQwgP)). The old background image was from [MKBHD's review of the iPhone 8](https://twitter.com/MKBHD/status/914113772125609986).
+The background isn't included with the .rmskin package in releases, but here's a link to the original artwork: [Space Station by Morgan Prost](https://www.artstation.com/artwork/YaQwgP). The old background image was from [MKBHD's review of the iPhone 8](https://twitter.com/MKBHD/status/914113772125609986).
 
 ## License
 
