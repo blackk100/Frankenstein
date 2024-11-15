@@ -3,18 +3,18 @@ Active=3
 
 Open1=1
 Name1=Router
-Address1=192.168.0.1
+Address1=192.168.1.1
 ThresholdY1=5
 ThresholdR1=10
 
 Open2=1
 Name2=Google
 Address2=8.8.8.8
-ThresholdY2=50
-ThresholdR2=200
+ThresholdY2=10
+ThresholdR2=100
 
 Open3=1
 Name3=Cloudflare
 Address3=1.1.1.1
-ThresholdY3=50
-ThresholdR3=200
+ThresholdY3=10
+ThresholdR3=100

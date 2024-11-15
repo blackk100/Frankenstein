@@ -74,7 +74,7 @@ function Set2()
 end
 
 function Add(n)
-	if active == 10 then
+	if active == 3 then
 		return
 	end
 	for i = 1, n do
